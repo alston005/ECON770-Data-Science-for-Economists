@@ -2,7 +2,7 @@
 This repository contains all the code and reports for the ECON 770 course project for the Fall 2020 semester at UW Madison
 
 ## Team Members
-Alston D'Souza \\
+Alston D'Souza \newline
 Hesham Abualkhair
 
 ## Project Topic 
